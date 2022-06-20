@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "category": "ESQUECIAÊ",
+    "icon": "categoria_esqueciae.svg",
+    "color": "#5D5151",
+    "pretext": ["Esqueci tste 1", "Esqueci teste 2"]
+  },
+  {
+    "id": 2,
+    "category": "PERDOAÊ",
+    "icon": "categoria_perdoae.svg",
+    "color": "#e2b036",
+    "pretext": ["perdoa tste 1", "perdoa teste 2"]
+  },
+  {
+    "id": 3,
+    "category": "ATRASEIAÊ",
+    "icon": "categoria_atraseae.svg",
+    "color": "#b4be41",
+    "pretext": ["atrasei tste 1", "atrasei teste 2"]
+  },
+  {
+    "id": 4,
+    "category": "NERDAÊ",
+    "icon": "categoria_nerdae.svg",
+    "color": "#6094A1",
+    "pretext": ["nerda tste 1", "nerda teste 2"]
+  },
+  {
+    "id": 5,
+    "category": "SEXOAÊ",
+    "icon": "categoria_sexoae.svg",
+    "color": "#D7616F",
+    "pretext": ["sexo tste 1", "sexo teste 2"]
+  }
+]
