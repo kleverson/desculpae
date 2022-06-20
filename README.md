@@ -12,8 +12,8 @@ Random and categorized apology generator app, developed for study and joke purpo
 
 ### Menu screen
 
-![menu screen app](https://raw.githubusercontent.com/kleverson/desculpae/main/app_screenshoot/menu_screen.png)
+![menu screen app](https://raw.githubusercontent.com/kleverson/desculpae/main/app_sceenshoot/menu_screen.png)
 
 ### Text Screen
 
-![text screen app](https://raw.githubusercontent.com/kleverson/desculpae/main/app_screenshoot/menu_screen.png)
+![text screen app](https://raw.githubusercontent.com/kleverson/desculpae/main/app_sceenshoot/text_screen.png)
