@@ -1,16 +1,19 @@
 # desculpae
 
-A new Flutter project.
+Random and categorized apology generator app, developed for study and joke purposes.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Persistence data
+- Managing categories and texts for sharing
+- Share text with whatsapp and/or sms
 
-A few resources to get you started if this is your first Flutter project:
+## ScreenShots app
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Menu screen
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![menu screen app](https://raw.githubusercontent.com/kleverson/desculpae/main/app_screenshoot/menu_screen.png)
+
+### Text Screen
+
+![text screen app](https://raw.githubusercontent.com/kleverson/desculpae/main/app_screenshoot/menu_screen.png)
